@@ -1,4 +1,4 @@
-# 🚀 LeetCode & SQL Practice Solutions
+# 🚀 LeetCode & SQL/PYTHON Practice Solutions
 
 Bem-vindo ao meu repositório de prática em resolução de problemas no **LeetCode**, com foco em **algoritmos, estruturas de dados, SQL e Python**.
 
