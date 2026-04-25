@@ -25,3 +25,11 @@ Este repositório documenta a minha evolução na resolução de problemas técn
 - 🔧 Git & GitHub
 
 ---
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Francisco-Muiambo-JR/leetcode-solutions/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
+<!---LeetCode Topics End-->
